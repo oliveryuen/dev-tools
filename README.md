@@ -1,19 +1,24 @@
 # dev-tools
 Handy Dev Tools
 
-# grip
+# grip (https://github.com/joeyespo/grip)
 * previewing markdown in local server
-https://github.com/joeyespo/grip
 
-# pandoc
+# pandoc (https://pandoc.org/)
 * converting markups to different formats
-https://pandoc.org/
 
-# gitignore.io
+# gitignore.io (https://gitignore.io)
 * create .gitignore files for projects
-https://gitignore.io
 
-# explainshell
+# explainshell (https://explainshell.com)
 * explain shell command
-https://explainshell.com
+
+# IntelliJ Plugins
+* __AceJump__ - jumps to positions within editor
+* __CodeGlance__ - minimap
+* __Grep Console__ - colored console
+* __IdeaVim__ - vim emulator
+* __Maven Helper__ - quick maven access
+* __Presentation Assistant__ - keymap assistant
+* Toml - toml support
 
