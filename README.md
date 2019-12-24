@@ -1,6 +1,9 @@
 # dev-tools
 Handy Dev Tools
 
+# markdown (https://www.markdownguide.org/basic-syntax/)
+* markdown reference
+
 # grip (https://github.com/joeyespo/grip)
 * previewing markdown in local server
 
