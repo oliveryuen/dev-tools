@@ -22,6 +22,7 @@ Handy Dev Tools
 * __AceJump__ - jumps to positions within editor
 * __CodeGlance__ - minimap
 * __Grep Console__ - colored console
+* __HashiCorp Terraform__ - terraform support
 * __IdeaVim__ - vim emulator
 * __Maven Helper__ - quick maven access
 * __Presentation Assistant__ - keymap assistant
