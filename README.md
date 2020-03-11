@@ -17,6 +17,8 @@ Handy Dev Tools
 # [explainshell](https://explainshell.com)
 * explain shell command
 
+# [shields.io](https://shields.io)
+* badges for github
 
 # IntelliJ Plugins
 * __AceJump__ - jumps to positions within editor
