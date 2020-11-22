@@ -30,3 +30,7 @@ Handy Dev Tools
 * __Presentation Assistant__ - keymap assistant
 * __Toml__ - toml support
 
+# Useful Links
+## Data Science
+- [TensorFlow Hub](https://www.tensorflow.org/hub)
+- [Kaggle](https://www.kaggle.com/)
