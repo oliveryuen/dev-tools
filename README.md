@@ -20,6 +20,9 @@ Handy Dev Tools
 # [shields.io](https://shields.io)
 * badges for github
 
+# [insomnia](https://insomnia.rest/)
+* tools for testing REST APIs
+
 # IntelliJ Plugins
 * __AceJump__ - jumps to positions within editor
 * __CodeGlance__ - minimap
@@ -34,3 +37,8 @@ Handy Dev Tools
 ## Data Science
 - [TensorFlow Hub](https://www.tensorflow.org/hub)
 - [Kaggle](https://www.kaggle.com/)
+- [Hugging Face](https://huggingface.co/)
+
+## Web
+- [12FactorApp](https://12factor.net/)
+
