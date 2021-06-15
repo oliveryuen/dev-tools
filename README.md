@@ -42,3 +42,6 @@ Handy Dev Tools
 ## Web
 - [12FactorApp](https://12factor.net/)
 
+## Misc
+- [EndOfLife](https://endoflife.date)
+
