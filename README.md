@@ -1,6 +1,8 @@
 # dev-tools
 Handy Dev Tools
 
+# [displacy](https://explosion.ai/demos/displacy)
+* spaCy visualization
 
 # [markdown](https://www.markdownguide.org/basic-syntax/)
 * markdown reference
