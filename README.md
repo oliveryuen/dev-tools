@@ -46,4 +46,4 @@ Handy Dev Tools
 
 ## Misc
 - [EndOfLife](https://endoflife.date)
-
+- [TOML](https://toml.io/en/)
